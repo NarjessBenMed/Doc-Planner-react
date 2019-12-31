@@ -1,0 +1,38 @@
+.LastDivFirstSection
+{
+margin-top: 80px;
+margin-bottom: 80px;
+display: flex;
+justify-content: space-between;
+height: 100px;
+
+}
+
+
+.GlobalCompany
+
+{
+    color: #00B39B;
+    width:200px;
+    letter-spacing: 1px;
+    font-weight: 300px;
+}
+
+.LogoCompany
+{
+
+    display: flex;
+    flex-wrap: wrap;
+    width:70%;
+    height: 100px;
+
+}
+
+
+.LogoCompany  a svg{
+
+    width:200px;
+    height:20px;
+    padding-left:20px;
+    fill:#747474;
+}

@@ -1,0 +1,34 @@
+
+.secondSectionLeftPart
+{
+    width:50%;
+    margin-top: 30px;
+    
+}
+
+
+.LF
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+   
+
+
+}
+
+
+.LF h1{
+
+    margin-bottom: 20px;
+}
+
+
+
+.bigLogo
+{
+height:300px;
+width:450px;
+
+
+}

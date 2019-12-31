@@ -1,0 +1,79 @@
+.div_boxes
+{
+        display: flex;
+        justify-content: space-between;
+  
+}
+
+
+.DoctorsPatient
+{
+width:400px;
+height:390px;
+border-radius: 30px;
+text-align: justify;
+padding-left:40px;
+padding-right: 40px;
+padding-top:20px;
+overflow: hidden;
+display: flex;
+flex-direction: column;
+background-color:#3D83DF;
+position: relative;
+}
+
+
+
+
+.imag_doctors
+{
+    width: 397px;
+    height:248px;
+    margin-left: 130px;
+    margin-top: 40px;
+    position:absolute;
+   
+
+}
+
+
+.country-select
+
+{
+    height: 40px;
+    width:150px;
+    border-radius: 8px;
+    margin-top: 40px;
+
+}
+
+h2{
+
+    color:white;
+    font-weight:200px;
+    letter-spacing: 1px;
+ 
+}
+
+
+h5
+{
+ color:#C5DAF4;
+ text-align: left;
+ margin-bottom: 10px;
+ margin-top: 20px;
+ font-weight:200px;
+ 
+
+}
+
+
+
+
+.select_and_img
+{
+    display:flex;
+
+
+    
+}

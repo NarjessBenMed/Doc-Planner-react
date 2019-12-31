@@ -1,0 +1,49 @@
+.footerSection
+{
+     margin-top:170px;
+    padding:20px  230px;
+    border-top:1px solid  #ccc; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80px;
+    
+  
+
+
+ 
+ 
+ 
+
+}  
+   
+
+
+.footerSection p
+{ 
+
+     
+     color:#747474;
+     font-weight: 400;
+     line-height:1;
+     font-size: 12px;
+      width:100%;
+     text-align: center;
+
+     
+
+}
+#espace
+{
+    line-height:4;
+}
+
+.ligne_below 
+{
+    color:#3d83df;
+    text-decoration: none;
+}
+
+.ligne_below:hover{
+    text-decoration: underline;
+}

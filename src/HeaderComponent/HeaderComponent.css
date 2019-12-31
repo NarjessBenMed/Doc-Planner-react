@@ -1,0 +1,15 @@
+.DPheader{
+
+    display:flex;
+    padding:20px  200px;
+    justify-content: space-between;
+    position:fixed;
+    background-color: white;
+    box-shadow: slategray;
+    width: 80vw;
+    height:20px;
+    z-index: 1;
+    box-shadow: thistle;
+    margin-bottom: 200px;
+  }
+  

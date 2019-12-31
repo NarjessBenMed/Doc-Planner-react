@@ -1,0 +1,25 @@
+
+.ThirdSection
+{
+    padding:20px  230px;
+  
+
+}
+
+
+.CatalogOffice
+{
+    
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+       height:650px;
+       
+    
+       
+
+}
+
+
+
+

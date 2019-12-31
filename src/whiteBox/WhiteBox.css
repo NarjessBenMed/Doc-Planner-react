@@ -1,0 +1,54 @@
+.WhiteBox
+{
+    display:flex;
+    background-color: white;
+    flex-direction: column;
+    width:225px;
+    height:230px;
+    margin:0px 20px 30px ;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+
+.test{
+    margin-top: 20px;
+}
+
+
+
+.WhiteBox img /* images dans la 1ere et 2eme white boxes*/
+{
+    width:35px;
+    height:40px;
+    padding-left: 100px;
+  
+}
+
+.WhiteBox p
+{
+color:#006B62;
+padding-left: 40px; 
+padding-right: 55px;
+width:150px;
+
+text-align: center;
+line-height: 1.75;
+font-size: 14px;
+font-weight: 400;
+color:#747474;
+}
+
+
+.WhiteBox h4
+{
+color:#00B3B3;
+text-align: center;
+padding-left:10px;
+padding-right: 10px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 1px;
+}

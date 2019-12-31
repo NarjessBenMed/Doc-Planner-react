@@ -1,0 +1,17 @@
+.Paragraphs
+{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom: 40px;
+
+}
+
+ p
+{
+    width: 477px;
+    height:120px;
+    line-height: 1.75;
+    font-size: 16px;
+    font-weight: 400;
+    color:#747474;
+}

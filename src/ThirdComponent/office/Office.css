@@ -1,0 +1,58 @@
+.officeByCountry
+{
+  
+    display:flex;
+    width: 330px;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    background-color: white;
+    margin-bottom: 20px;
+    
+}
+
+
+
+.officeByCountry img{
+    margin-bottom: 0px;
+    height: 278px;
+    width: 330px;
+    border-radius: 5px 5px 0px 0px;
+    margin-bottom: 10px;
+}
+
+.office_seeMore
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+      padding-left: 20px;
+    padding-right: 20px;
+    height: 40px;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 5px 5px;
+} 
+
+.see_more
+{
+    font-size: 11px;
+    color:white;
+    background-color:#254F86;
+    height: 10px;
+    border-radius: 10px;
+    padding: 15px 10px;
+
+}
+
+.office /* nom de l'office affiché sous les images*/
+{
+    font-size: 20px;
+    color:#747474;
+     height: 15px;
+    padding: 15px 10px;
+
+}
+
+.officeByCountry:hover{
+
+    box-shadow: 0 0 11px blue;
+}
